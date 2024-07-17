@@ -1,0 +1,2127 @@
+<!doctype html>
+<html lang="en">
+
+    <head>
+        
+            
+  <meta charset="utf-8">
+
+
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+
+  <title>EtrendLite</title>
+  <meta name="description" content="Shop powered by PrestaShop">
+  <meta name="keywords" content="">
+    
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+  <link rel="icon" type="image/vnd.microsoft.icon" href="/etrend/presta/lite/img/favicon.ico?1598954197">
+  <link rel="shortcut icon" type="image/x-icon" href="/etrend/presta/lite/img/favicon.ico?1598954197">
+  <link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+
+
+    <link rel="stylesheet" href="http://demo4techies.com/etrend/presta/lite/themes/etrendlite/assets/css/theme.css" type="text/css" media="all">
+  <link rel="stylesheet" href="http://demo4techies.com/etrend/presta/lite/themes/etrendlite/assets/css/font-awesome.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="http://demo4techies.com/etrend/presta/lite/themes/etrendlite/assets/css/owl.carousel.css" type="text/css" media="all">
+  <link rel="stylesheet" href="http://demo4techies.com/etrend/presta/lite/themes/etrendlite/assets/css/owl.theme.css" type="text/css" media="all">
+  <link rel="stylesheet" href="http://demo4techies.com/etrend/presta/lite/themes/etrendlite/assets/css/owl.transitions.css" type="text/css" media="all">
+  <link rel="stylesheet" href="http://demo4techies.com/etrend/presta/lite/modules/ht_scrolltop/views/css/font-awesome.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="http://demo4techies.com/etrend/presta/lite/modules/ht_staticblocks/views/css/ht_staticblocks.css" type="text/css" media="all">
+  <link rel="stylesheet" href="http://demo4techies.com/etrend/presta/lite/js/jquery/ui/themes/base/minified/jquery-ui.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="http://demo4techies.com/etrend/presta/lite/js/jquery/ui/themes/base/minified/jquery.ui.theme.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="http://demo4techies.com/etrend/presta/lite/modules/ps_imageslider/css/homeslider.css" type="text/css" media="all">
+  <link rel="stylesheet" href="http://demo4techies.com/etrend/presta/lite/themes/etrendlite/assets/css/custom.css" type="text/css" media="all">
+
+
+
+
+  
+
+  <script type="text/javascript">
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Total","amount":0,"value":"$0.00"},"total_including_tax":{"type":"total","label":"Total (tax incl.)","amount":0,"value":"$0.00"},"total_excluding_tax":{"type":"total","label":"Total (tax excl.)","amount":0,"value":"$0.00"}},"subtotals":{"products":{"type":"products","label":"Subtotal","amount":0,"value":"$0.00"},"discounts":null,"shipping":{"type":"shipping","label":"Shipping","amount":0,"value":"Free"},"tax":{"type":"tax","label":"Included taxes","amount":0,"value":"$0.00"}},"products_count":0,"summary_string":"0 items","vouchers":{"allowed":0,"added":[]},"discounts":[],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"name":"US Dollar","iso_code":"USD","iso_code_num":"840","sign":"$"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"English (English)","iso_code":"en","locale":"en-US","language_code":"en-us","is_rtl":"0","date_format_lite":"m\/d\/Y","date_format_full":"m\/d\/Y H:i:s","id":1},"page":{"title":"","canonical":null,"meta":{"title":"EtrendLite","description":"Shop powered by PrestaShop","keywords":"","robots":"index"},"page_name":"index","body_classes":{"lang-en":true,"lang-rtl":false,"country-US":true,"currency-USD":true,"layout-full-width":true,"page-index":true,"tax-display-disabled":true},"admin_notifications":[]},"shop":{"name":"EtrendLite","logo":"\/etrend\/presta\/lite\/img\/etrendlite-logo-1598954197.jpg","stores_icon":"\/etrend\/presta\/lite\/img\/logo_stores.png","favicon":"\/etrend\/presta\/lite\/img\/favicon.ico"},"urls":{"base_url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/","current_url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/","shop_domain_url":"http:\/\/demo4techies.com","img_ps_url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/","img_cat_url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/c\/","img_lang_url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/l\/","img_prod_url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/p\/","img_manu_url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/m\/","img_sup_url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/su\/","img_ship_url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/s\/","img_store_url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/st\/","img_col_url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/co\/","img_url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/themes\/etrendlite\/assets\/img\/","css_url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/themes\/etrendlite\/assets\/css\/","js_url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/themes\/etrendlite\/assets\/js\/","pic_url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/upload\/","pages":{"address":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/address","addresses":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/addresses","authentication":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/login","cart":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/cart","category":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/index.php?controller=category","cms":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/index.php?controller=cms","contact":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/contact-us","discount":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/discount","guest_tracking":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/guest-tracking","history":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/order-history","identity":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/identity","index":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/","my_account":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/my-account","order_confirmation":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/order-confirmation","order_detail":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/index.php?controller=order-detail","order_follow":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/order-follow","order":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/order","order_return":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/index.php?controller=order-return","order_slip":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/credit-slip","pagenotfound":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/page-not-found","password":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/password-recovery","pdf_invoice":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/index.php?controller=pdf-invoice","pdf_order_return":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/index.php?controller=pdf-order-return","pdf_order_slip":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/index.php?controller=pdf-order-slip","prices_drop":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/prices-drop","product":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/index.php?controller=product","search":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/search","sitemap":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/sitemap","stores":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/stores","supplier":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/supplier","register":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/login?create_account=1","order_login":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/order?login=1"},"alternative_langs":{"en-us":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/","fr-fr":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/fr\/"},"theme_assets":"\/etrend\/presta\/lite\/themes\/etrendlite\/assets\/","actions":{"logout":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/p\/en-default-small_default.jpg","width":98,"height":124},"cart_default":{"url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/p\/en-default-cart_default.jpg","width":125,"height":159},"home_default":{"url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/p\/en-default-home_default.jpg","width":350,"height":446},"medium_default":{"url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/p\/en-default-medium_default.jpg","width":452,"height":575},"large_default":{"url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/p\/en-default-large_default.jpg","width":513,"height":655}},"small":{"url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/p\/en-default-small_default.jpg","width":98,"height":124},"medium":{"url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/p\/en-default-home_default.jpg","width":350,"height":446},"large":{"url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/img\/p\/en-default-large_default.jpg","width":513,"height":655},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":true},"quantity_discount":{"type":"discount","label":"Discount"},"voucher_enabled":0,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Home","url":"http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/"}],"count":1},"link":{"protocol_link":"http:\/\/","protocol_content":"http:\/\/"},"time":1720452485,"static_token":"285dfc9b6ecb07d33dcddbebb2551964","token":"efeeb1b8884922582798c95f431e349d"};
+        var psemailsubscription_subscription = "http:\/\/demo4techies.com\/etrend\/presta\/lite\/en\/module\/ps_emailsubscription\/subscription";
+      </script>
+
+
+
+  
+
+
+
+        
+    </head>
+
+    <body id="index" class="lang-en country-us currency-usd layout-full-width page-index tax-display-disabled">
+
+        
+            
+        
+
+    <main>
+        
+                    
+
+        <header id="header">
+            
+                
+    <div class="header-banner">
+        
+    </div>
+
+
+
+    <nav class="header-nav">
+        <div class="container">
+            <div class="row">
+                <div class="hidden-sm-down">
+                    <div class="col-md-6 col-xs-12 payment-currency-block">
+                        <div id="_desktop_language_selector">
+  <div class="language-selector-wrapper">
+    <span id="language-selector-label" class="hidden-md-up">Language:</span>
+    <div class="language-selector dropdown js-dropdown">
+      <button data-toggle="dropdown" class="hidden-sm-down btn-unstyle" aria-haspopup="true" aria-expanded="false" aria-label="Language dropdown">
+        <span class="expand-more">English</span>
+        <i class="material-icons expand-more">&#xE5C5;</i>
+      </button>
+      <ul class="dropdown-menu hidden-sm-down" aria-labelledby="language-selector-label">
+                  <li  class="current" >
+            <a href="http://demo4techies.com/etrend/presta/lite/en/" class="dropdown-item">English</a>
+          </li>
+                  <li >
+            <a href="http://demo4techies.com/etrend/presta/lite/fr/" class="dropdown-item">Français</a>
+          </li>
+              </ul>
+      <select class="link hidden-md-up" aria-labelledby="language-selector-label">
+                  <option value="http://demo4techies.com/etrend/presta/lite/en/" selected="selected">English</option>
+                  <option value="http://demo4techies.com/etrend/presta/lite/fr/">Français</option>
+              </select>
+    </div>
+  </div>
+</div>
+<div id="_desktop_currency_selector">
+  <div class="currency-selector dropdown js-dropdown">
+    <span id="currency-selector-label"></span>
+    <button data-target="#" data-toggle="dropdown" class="hidden-sm-down btn-unstyle" aria-haspopup="true" aria-expanded="false" aria-label="Currency dropdown">
+      <span class="expand-more _gray-darker">USD $</span>
+      <i class="material-icons expand-more">&#xE5C5;</i>
+    </button>
+    <ul class="dropdown-menu hidden-sm-down" aria-labelledby="currency-selector-label">
+              <li >
+          <a title="Indian Rupee" rel="nofollow" href="http://demo4techies.com/etrend/presta/lite/en/?SubmitCurrency=1&amp;id_currency=2" class="dropdown-item">INR ₹</a>
+        </li>
+              <li  class="current" >
+          <a title="US Dollar" rel="nofollow" href="http://demo4techies.com/etrend/presta/lite/en/?SubmitCurrency=1&amp;id_currency=1" class="dropdown-item">USD $</a>
+        </li>
+          </ul>
+    <select class="link hidden-md-up" aria-labelledby="currency-selector-label">
+              <option value="http://demo4techies.com/etrend/presta/lite/en/?SubmitCurrency=1&amp;id_currency=2">INR ₹</option>
+              <option value="http://demo4techies.com/etrend/presta/lite/en/?SubmitCurrency=1&amp;id_currency=1" selected="selected">USD $</option>
+          </select>
+  </div>
+</div>
+
+                    </div>
+                    <div class="col-md-6 right-nav">
+                        <div id="_desktop_user_info">
+    <div class="user-info">
+                    <a
+                href="http://demo4techies.com/etrend/presta/lite/en/my-account"
+                title="Log in to your customer account"
+                rel="nofollow"
+                >
+                <i class="material-icons">&#xE7FF;</i>
+                <span class="hidden-sm-down">Sign in</span>
+            </a>
+            </div>
+</div>
+
+                    </div>
+                </div>
+                <div class="hidden-md-up text-sm-center mobile">
+                    <div class="float-xs-left" id="menu-icon">
+                        <i class="material-icons d-inline">&#xE5D2;</i>
+                    </div>
+                    <div class="float-xs-right" id="_mobile_cart"></div>
+                    <div class="float-xs-right" id="_mobile_user_info"></div>
+                    <div class="top-logo" id="_mobile_logo"></div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+
+
+    <div class="header-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4  hidden-sm-down" id="_desktop_logo">
+                    <a href="http://demo4techies.com/etrend/presta/lite/">
+                        <img class="logo img-responsive" src="/etrend/presta/lite/img/etrendlite-logo-1598954197.jpg" alt="EtrendLite">
+                    </a>
+                </div>
+                <div class="col-md-8 col-sm-12 position-static">
+                    <div id="_desktop_cart">
+    <div class="blockcart cart-preview inactive" data-refresh-url="//demo4techies.com/etrend/presta/lite/en/module/ps_shoppingcart/ajax">
+        <div class="header">
+                        <a rel="nofollow" href="//demo4techies.com/etrend/presta/lite/en/cart?action=show">
+                                <span class="text">My Cart</span>
+                <span class="cart-qty">
+                    <span class="cart-number">0 Item(s)</span>
+                </span>
+                            </a>
+                    </div>
+    </div>
+</div>
+<!-- Static Block module -->
+			<div class="header-contact-block">
+<div class="item"><span class="icon-block"> <em class="fa fa-phone"></em> </span> <span class="text-block"> Call Us Now <a href="tel:+123456789">(123) 4567-890</a> </span></div>
+</div>
+
+	<!-- /Static block module --><!-- Block search module TOP -->
+<div id="search_widget" class="col-lg-6 col-md-5 col-sm-12 search-widget" data-search-controller-url="//demo4techies.com/etrend/presta/lite/en/search">
+	<form method="get" action="//demo4techies.com/etrend/presta/lite/en/search">
+		<input type="hidden" name="controller" value="search">
+		<input type="text" name="s" value="" placeholder="Search our catalog" aria-label="Search">
+		<button type="submit">
+			<i class="material-icons search">&#xE8B6;</i>
+      <span class="hidden-xl-down">Search</span>
+		</button>
+	</form>
+</div>
+<!-- /Block search module TOP -->
+
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+            <div id="mobile_top_menu_wrapper" class="row hidden-md-up" style="display:none;">
+                <div class="js-top-menu mobile" id="_mobile_top_menu"></div>
+                <div class="js-top-menu-bottom">
+                    <div id="_mobile_currency_selector"></div>
+                    <div id="_mobile_language_selector"></div>
+                    <div id="_mobile_contact_link"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="header-navfullwidth">
+        <div class="container">
+            
+<div class="top-navigation-menu">
+    <div class="menu navbar-block col-lg-8 col-md-7 js-top-menu position-static hidden-sm-down" id="_desktop_top_menu">
+        
+            <ul class="top-menu" id="top-menu" data-depth="0">
+                            <li class="classic-list link  level0" id="lnk-home">
+                                        <a
+                        class="dropdown-item"
+                        href="https://demo4techies.com/etrend/presta/lite" data-depth="0"
+                                                >
+                                                Home
+                    </a>
+                                    </li>
+                            <li class="classic-list category  has-child  level0" id="category-3">
+                                        <a
+                        class="dropdown-item"
+                        href="http://demo4techies.com/etrend/presta/lite/en/3-clothes" data-depth="0"
+                                                >
+                                                                                                            <span class="float-xs-right hidden-md-up">
+                                <span data-target="#top_sub_menu_369" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                                    <i class="material-icons add">&#xE313;</i>
+                                    <i class="material-icons remove">&#xE316;</i>
+                                </span>
+                            </span>
+                                                Clothes
+                    </a>
+                                            <div  class="classic-menu popover sub-menu js-sub-menu collapse" id="top_sub_menu_369">
+                            
+            <ul class="top-menu"  data-depth="1">
+                            <li class="classic-list category  level1" id="category-4">
+                                        <a
+                        class="dropdown-item dropdown-submenu"
+                        href="http://demo4techies.com/etrend/presta/lite/en/4-men" data-depth="1"
+                                                >
+                                                Men
+                    </a>
+                                    </li>
+                            <li class="classic-list category  level1" id="category-5">
+                                        <a
+                        class="dropdown-item dropdown-submenu"
+                        href="http://demo4techies.com/etrend/presta/lite/en/5-women" data-depth="1"
+                                                >
+                                                Women
+                    </a>
+                                    </li>
+                    </ul>
+    
+                                                    </div>
+                                    </li>
+                            <li class="classic-list category  has-child  level0" id="category-6">
+                                        <a
+                        class="dropdown-item"
+                        href="http://demo4techies.com/etrend/presta/lite/en/6-accessories" data-depth="0"
+                                                >
+                                                                                                            <span class="float-xs-right hidden-md-up">
+                                <span data-target="#top_sub_menu_71330" data-toggle="collapse" class="navbar-toggler collapse-icons">
+                                    <i class="material-icons add">&#xE313;</i>
+                                    <i class="material-icons remove">&#xE316;</i>
+                                </span>
+                            </span>
+                                                Accessories
+                    </a>
+                                            <div  class="classic-menu popover sub-menu js-sub-menu collapse" id="top_sub_menu_71330">
+                            
+            <ul class="top-menu"  data-depth="1">
+                            <li class="classic-list category  level1" id="category-7">
+                                        <a
+                        class="dropdown-item dropdown-submenu"
+                        href="http://demo4techies.com/etrend/presta/lite/en/7-stationery" data-depth="1"
+                                                >
+                                                Stationery
+                    </a>
+                                    </li>
+                            <li class="classic-list category  level1" id="category-8">
+                                        <a
+                        class="dropdown-item dropdown-submenu"
+                        href="http://demo4techies.com/etrend/presta/lite/en/8-home-accessories" data-depth="1"
+                                                >
+                                                Home Accessories
+                    </a>
+                                    </li>
+                    </ul>
+    
+                                                    </div>
+                                    </li>
+                            <li class="classic-list category  level0" id="category-9">
+                                        <a
+                        class="dropdown-item"
+                        href="http://demo4techies.com/etrend/presta/lite/en/9-art" data-depth="0"
+                                                >
+                                                Art
+                    </a>
+                                    </li>
+                    </ul>
+    
+        <div class="clearfix"></div>
+    </div>
+</div>
+        </div>
+    </div>
+            
+        </header>
+
+        
+            
+<aside id="notifications">
+  <div class="container">
+    
+    
+    
+      </div>
+</aside>
+        
+                        <div class="image-slider-block">
+        <div id="carousel" data-ride="carousel" class="carousel slide" data-interval="5000" data-wrap="true" data-pause="hover">
+            <ul class="carousel-inner" role="listbox">
+                                    <li class="carousel-item active" role="option" aria-hidden="false">
+                        <a href="http://#">
+                            <figure>
+                                <img src="http://demo4techies.com/etrend/presta/lite/modules/ps_imageslider/images/sample-1.jpg" alt="">
+                                                                    <figcaption class="caption">
+                                        <h2 class="display-1 text-uppercase"></h2>
+                                        <div class="caption-description"><h2>Up to <span>40%</span><br /><strong>DISCOUNT</strong><br /> on Fashion<br /> Brands</h2>
+<p><a href="#" class="action primary">Shop Now</a></p></div>
+                                    </figcaption>
+                                                            </figure>
+                        </a>
+                    </li>
+                                    <li class="carousel-item " role="option" aria-hidden="true">
+                        <a href="http://#">
+                            <figure>
+                                <img src="http://demo4techies.com/etrend/presta/lite/modules/ps_imageslider/images/sample-2.jpg" alt="">
+                                                                    <figcaption class="caption">
+                                        <h2 class="display-1 text-uppercase"></h2>
+                                        <div class="caption-description"><h2>Up to <span>40%</span><br /><strong>DISCOUNT</strong><br /> on Fashion<br /> Brands</h2>
+<p><a href="#" class="action primary">Shop Now</a></p></div>
+                                    </figcaption>
+                                                            </figure>
+                        </a>
+                    </li>
+                                    <li class="carousel-item " role="option" aria-hidden="true">
+                        <a href="http://#">
+                            <figure>
+                                <img src="http://demo4techies.com/etrend/presta/lite/modules/ps_imageslider/images/sample-3.jpg" alt="">
+                                                                    <figcaption class="caption">
+                                        <h2 class="display-1 text-uppercase"></h2>
+                                        <div class="caption-description"><h2>Up to <span>40%</span><br /><strong>DISCOUNT</strong><br /> on Fashion<br /> Brands</h2>
+<p><a href="#" class="action primary">Shop Now</a></p></div>
+                                    </figcaption>
+                                                            </figure>
+                        </a>
+                    </li>
+                            </ul>
+            <div class="direction" aria-label="Carousel buttons">
+                <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+                    <span class="icon-prev hidden-xs" aria-hidden="true">
+                        <i class="material-icons">&#xE5CB;</i>
+                    </span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+                    <span class="icon-next" aria-hidden="true">
+                        <i class="material-icons">&#xE5CC;</i>
+                    </span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+    </div>
+<!-- Static Block module -->
+			<div class="home-servives-block top-padding bottom-padding">
+<div class="container">
+<div class="row">
+<div class="services-main">
+<div class="services-inner">
+<div class="services-inner-main">
+<div class="services-icon"><img src="../img/cms/online-support.png" alt="24/7 Online Support" /></div>
+<div class="services-content"><strong> 24/7 Online Support </strong>
+<p>Trained staffs are ready to help 24/7</p>
+</div>
+</div>
+</div>
+<div class="services-inner">
+<div class="services-inner-main">
+<div class="services-icon"><img src="../img/cms/money-back.png" alt="Money Back Guarantee" /></div>
+<div class="services-content"><strong> Money Back Guarantee </strong>
+<p>100% money back guarantee</p>
+</div>
+</div>
+</div>
+<div class="services-inner">
+<div class="services-inner-main">
+<div class="services-icon"><img src="../img/cms/free-shipping.png" alt="Free Shipping & Return" /></div>
+<div class="services-content"><strong> Free Shipping & Return </strong>
+<p>Free shipping on all orders over $100</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+	<!-- /Static block module -->
+            <!-- Static Block module -->
+			<div class="home-images-block-one top-margin bottom-margin">
+<div class="container">
+<div class="row">
+<div class="item">
+<div class="item-inner"><img class="img-responsive center-block" src="../img/cms/ad-block-1.jpg" alt="ad-block" />
+<div class="text-content">
+<p>Only <span>Three</span><br /> <strong>DAYS LEFT</strong><br /> on Fashion<br /> Weeks sale!</p>
+<a class="action primary btn btn-primary" href="#"> Shop Today </a></div>
+</div>
+</div>
+<div class="item">
+<div class="item-inner"><img class="img-responsive center-block" src="../img/cms/ad-block-2.jpg" alt="ad-block" />
+<div class="text-content">
+<p>Get <span>Winter</span><br /> <strong>LOOKBOOK</strong><br /> with online<br /> purchase</p>
+<a class="action primary btn btn-primary" href="#"> Get Your Copy </a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+	<!-- /Static block module -->
+            
+        
+        <section id="wrapper">
+            
+            <div class="container">
+                
+                    <nav data-depth="1" class="breadcrumb hidden-sm-down">
+  <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+          
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a itemprop="item" href="http://demo4techies.com/etrend/presta/lite/en/">
+            <span itemprop="name">Home</span>
+          </a>
+          <meta itemprop="position" content="1">
+        </li>
+      
+      </ol>
+</nav>
+                
+                <div class="row">
+                    
+
+                    
+  <div id="content-wrapper">
+    
+    
+
+  <section id="main">
+
+    
+      
+    
+
+    
+      <section id="content" class="page-home">
+        
+
+        
+          
+            <section class="featured-products clearfix top-margin bottom-margin">
+    <div class="container">
+        <div class="section-title">
+            <span>New
+                <i>Products</i>
+            </span>
+        </div>
+        <div class="products-grid">
+            <div class="row">
+                <div class="products owl-theme owl-carousel product-slider">
+                                            
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="19" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+            <div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="http://demo4techies.com/etrend/presta/lite/en/home-accessories/19-customizable-mug.html" class="thumbnail product-thumbnail">
+                            <img
+                                src = "http://demo4techies.com/etrend/presta/lite/96-home_default/customizable-mug.jpg"
+                                alt = "Customizable mug"
+                                data-full-size-image-url = "http://demo4techies.com/etrend/presta/lite/96-large_default/customizable-mug.jpg" />
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                    </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Quick view
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="http://demo4techies.com/etrend/presta/lite/en/home-accessories/19-customizable-mug.html">Customizable mug</a></h1>
+                        
+                        
+                        <div class="product-short-desc" id="product-description-short-19" itemprop="description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul><li>Duis aute irure dolor in reprehenderit in voluptate.</li>
+<li>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
+</ul></div>
+                    
+                    
+                                                    <div class="product-price-and-shipping">
+                                
+                                
+
+                                <span class="sr-only">Price</span>
+                                <span itemprop="price" class="price">$13.90</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="http://demo4techies.com/etrend/presta/lite/en/cart" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="285dfc9b6ecb07d33dcddbebb2551964">
+                            <input type="hidden" value="19" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary">Add to cart</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+                                            
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="18" data-id-product-attribute="36" itemscope itemtype="http://schema.org/Product">
+            <div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="http://demo4techies.com/etrend/presta/lite/en/stationery/18-36-hummingbird-notebook.html#/22-paper_type-ruled" class="thumbnail product-thumbnail">
+                            <img
+                                src = "http://demo4techies.com/etrend/presta/lite/89-home_default/hummingbird-notebook.jpg"
+                                alt = "Hummingbird notebook"
+                                data-full-size-image-url = "http://demo4techies.com/etrend/presta/lite/89-large_default/hummingbird-notebook.jpg" />
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                    </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Quick view
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="http://demo4techies.com/etrend/presta/lite/en/stationery/18-36-hummingbird-notebook.html#/22-paper_type-ruled">Hummingbird notebook</a></h1>
+                        
+                        
+                        <div class="product-short-desc" id="product-description-short-18" itemprop="description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul><li>Duis aute irure dolor in reprehenderit in voluptate.</li>
+<li>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
+</ul></div>
+                    
+                    
+                                                    <div class="product-price-and-shipping">
+                                
+                                
+
+                                <span class="sr-only">Price</span>
+                                <span itemprop="price" class="price">$12.90</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="http://demo4techies.com/etrend/presta/lite/en/cart" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="285dfc9b6ecb07d33dcddbebb2551964">
+                            <input type="hidden" value="18" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary">Add to cart</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+                                            
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="17" data-id-product-attribute="32" itemscope itemtype="http://schema.org/Product">
+            <div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="http://demo4techies.com/etrend/presta/lite/en/stationery/17-32-brown-bear-notebook.html#/22-paper_type-ruled" class="thumbnail product-thumbnail">
+                            <img
+                                src = "http://demo4techies.com/etrend/presta/lite/85-home_default/brown-bear-notebook.jpg"
+                                alt = "Brown bear notebook"
+                                data-full-size-image-url = "http://demo4techies.com/etrend/presta/lite/85-large_default/brown-bear-notebook.jpg" />
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                    </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Quick view
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="http://demo4techies.com/etrend/presta/lite/en/stationery/17-32-brown-bear-notebook.html#/22-paper_type-ruled">Brown bear notebook</a></h1>
+                        
+                        
+                        <div class="product-short-desc" id="product-description-short-17" itemprop="description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul><li>Duis aute irure dolor in reprehenderit in voluptate.</li>
+<li>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
+</ul></div>
+                    
+                    
+                                                    <div class="product-price-and-shipping">
+                                
+                                
+
+                                <span class="sr-only">Price</span>
+                                <span itemprop="price" class="price">$12.90</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="http://demo4techies.com/etrend/presta/lite/en/cart" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="285dfc9b6ecb07d33dcddbebb2551964">
+                            <input type="hidden" value="17" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary">Add to cart</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+                                            
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="16" data-id-product-attribute="28" itemscope itemtype="http://schema.org/Product">
+            <div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="http://demo4techies.com/etrend/presta/lite/en/stationery/16-28-mountain-fox-notebook.html#/22-paper_type-ruled" class="thumbnail product-thumbnail">
+                            <img
+                                src = "http://demo4techies.com/etrend/presta/lite/81-home_default/mountain-fox-notebook.jpg"
+                                alt = "Mountain fox notebook"
+                                data-full-size-image-url = "http://demo4techies.com/etrend/presta/lite/81-large_default/mountain-fox-notebook.jpg" />
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                    </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Quick view
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="http://demo4techies.com/etrend/presta/lite/en/stationery/16-28-mountain-fox-notebook.html#/22-paper_type-ruled">Mountain fox notebook</a></h1>
+                        
+                        
+                        <div class="product-short-desc" id="product-description-short-16" itemprop="description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul><li>Duis aute irure dolor in reprehenderit in voluptate.</li>
+<li>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
+</ul></div>
+                    
+                    
+                                                    <div class="product-price-and-shipping">
+                                
+                                
+
+                                <span class="sr-only">Price</span>
+                                <span itemprop="price" class="price">$12.90</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="http://demo4techies.com/etrend/presta/lite/en/cart" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="285dfc9b6ecb07d33dcddbebb2551964">
+                            <input type="hidden" value="16" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary">Add to cart</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+                                            
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="15" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+            <div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="http://demo4techies.com/etrend/presta/lite/en/home-accessories/15-pack-mug-framed-poster.html" class="thumbnail product-thumbnail">
+                            <img
+                                src = "http://demo4techies.com/etrend/presta/lite/79-home_default/pack-mug-framed-poster.jpg"
+                                alt = "Pack Mug + Framed poster"
+                                data-full-size-image-url = "http://demo4techies.com/etrend/presta/lite/79-large_default/pack-mug-framed-poster.jpg" />
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                            <li class="product-flag pack">Pack</li>
+                                                        </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Quick view
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="http://demo4techies.com/etrend/presta/lite/en/home-accessories/15-pack-mug-framed-poster.html">Pack Mug + Framed poster</a></h1>
+                        
+                        
+                        <div class="product-short-desc" id="product-description-short-15" itemprop="description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul><li>Duis aute irure dolor in reprehenderit in voluptate.</li>
+<li>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
+</ul></div>
+                    
+                    
+                                                    <div class="product-price-and-shipping">
+                                
+                                
+
+                                <span class="sr-only">Price</span>
+                                <span itemprop="price" class="price">$35.00</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="http://demo4techies.com/etrend/presta/lite/en/cart" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="285dfc9b6ecb07d33dcddbebb2551964">
+                            <input type="hidden" value="15" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary">Add to cart</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+                                            
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="14" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+            <div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="http://demo4techies.com/etrend/presta/lite/en/art/14-hummingbird-vector-graphics.html" class="thumbnail product-thumbnail">
+                            <img
+                                src = "http://demo4techies.com/etrend/presta/lite/74-home_default/hummingbird-vector-graphics.jpg"
+                                alt = "Hummingbird - Vector graphics"
+                                data-full-size-image-url = "http://demo4techies.com/etrend/presta/lite/74-large_default/hummingbird-vector-graphics.jpg" />
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                    </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Quick view
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="http://demo4techies.com/etrend/presta/lite/en/art/14-hummingbird-vector-graphics.html">Hummingbird - Vector graphics</a></h1>
+                        
+                        
+                        <div class="product-short-desc" id="product-description-short-14" itemprop="description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul><li>Duis aute irure dolor in reprehenderit in voluptate.</li>
+<li>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
+</ul></div>
+                    
+                    
+                                                    <div class="product-price-and-shipping">
+                                
+                                
+
+                                <span class="sr-only">Price</span>
+                                <span itemprop="price" class="price">$99.00</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="http://demo4techies.com/etrend/presta/lite/en/cart" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="285dfc9b6ecb07d33dcddbebb2551964">
+                            <input type="hidden" value="14" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary">Add to cart</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+                                            
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="13" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+            <div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="http://demo4techies.com/etrend/presta/lite/en/art/13-brown-bear-vector-graphics.html" class="thumbnail product-thumbnail">
+                            <img
+                                src = "http://demo4techies.com/etrend/presta/lite/71-home_default/brown-bear-vector-graphics.jpg"
+                                alt = "Brown bear - Vector graphics"
+                                data-full-size-image-url = "http://demo4techies.com/etrend/presta/lite/71-large_default/brown-bear-vector-graphics.jpg" />
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                    </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Quick view
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="http://demo4techies.com/etrend/presta/lite/en/art/13-brown-bear-vector-graphics.html">Brown bear - Vector graphics</a></h1>
+                        
+                        
+                        <div class="product-short-desc" id="product-description-short-13" itemprop="description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul><li>Duis aute irure dolor in reprehenderit in voluptate.</li>
+<li>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
+</ul></div>
+                    
+                    
+                                                    <div class="product-price-and-shipping">
+                                
+                                
+
+                                <span class="sr-only">Price</span>
+                                <span itemprop="price" class="price">$19.00</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="http://demo4techies.com/etrend/presta/lite/en/cart" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="285dfc9b6ecb07d33dcddbebb2551964">
+                            <input type="hidden" value="13" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary">Add to cart</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+                                            
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="12" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+            <div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="http://demo4techies.com/etrend/presta/lite/en/art/12-mountain-fox-vector-graphics.html" class="thumbnail product-thumbnail">
+                            <img
+                                src = "http://demo4techies.com/etrend/presta/lite/66-home_default/mountain-fox-vector-graphics.jpg"
+                                alt = "Mountain fox - Vector graphics"
+                                data-full-size-image-url = "http://demo4techies.com/etrend/presta/lite/66-large_default/mountain-fox-vector-graphics.jpg" />
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                    </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Quick view
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="http://demo4techies.com/etrend/presta/lite/en/art/12-mountain-fox-vector-graphics.html">Mountain fox - Vector graphics</a></h1>
+                        
+                        
+                        <div class="product-short-desc" id="product-description-short-12" itemprop="description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul><li>Duis aute irure dolor in reprehenderit in voluptate.</li>
+<li>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
+</ul></div>
+                    
+                    
+                                                    <div class="product-price-and-shipping">
+                                
+                                
+
+                                <span class="sr-only">Price</span>
+                                <span itemprop="price" class="price">$9.00</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="http://demo4techies.com/etrend/presta/lite/en/cart" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="285dfc9b6ecb07d33dcddbebb2551964">
+                            <input type="hidden" value="12" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary">Add to cart</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+                                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+          
+        
+      </section>
+    
+
+    
+      <footer class="page-footer">
+        
+          <!-- Footer content -->
+        
+      </footer>
+    
+
+  </section>
+
+
+    
+  </div>
+
+
+
+                    
+                </div>
+            </div>
+            
+        </section>
+
+
+                    <!-- Static Block module -->
+			<div class="home-images-block-two top-margin bottom-margin">
+<div class="container">
+<div class="content-main">
+<h3>Summer Lookbook is out now!</h3>
+<a class="link-btn" href="#"> <span>Get your copy</span> </a></div>
+</div>
+</div>
+
+	<!-- /Static block module -->
+            <section class="featured-products clearfix top-margin bottom-margin">
+    <div class="container">
+        <div class="section-title">
+            <span>Featured 
+                <i>Collection</i>
+            </span>
+        </div>
+        <div class="products-grid">
+            <div class="row">
+                <div class="products owl-theme owl-carousel product-slider">
+                                            
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="1" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+            <div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="http://demo4techies.com/etrend/presta/lite/en/men/1-hummingbird-printed-t-shirt.html" class="thumbnail product-thumbnail">
+                            <img
+                                src = "http://demo4techies.com/etrend/presta/lite/27-home_default/hummingbird-printed-t-shirt.jpg"
+                                alt = "Simple Product"
+                                data-full-size-image-url = "http://demo4techies.com/etrend/presta/lite/27-large_default/hummingbird-printed-t-shirt.jpg" />
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                            <li class="product-flag on-sale">On sale!</li>
+                                                                <li class="product-flag discount">-20%</li>
+                                                        </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Quick view
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="http://demo4techies.com/etrend/presta/lite/en/men/1-hummingbird-printed-t-shirt.html">Simple Product</a></h1>
+                        
+                        
+                        <div class="product-short-desc" id="product-description-short-1" itemprop="description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul><li>Duis aute irure dolor in reprehenderit in voluptate.</li>
+<li>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
+</ul></div>
+                    
+                    
+                                                    <div class="product-price-and-shipping">
+                                                                    
+
+                                    <span class="sr-only">Regular price</span>
+                                    <span class="regular-price">$123.90</span>
+                                
+                                
+
+                                <span class="sr-only">Price</span>
+                                <span itemprop="price" class="price">$99.12</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="http://demo4techies.com/etrend/presta/lite/en/cart" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="285dfc9b6ecb07d33dcddbebb2551964">
+                            <input type="hidden" value="1" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary">Add to cart</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+                                            
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="2" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+            <div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="http://demo4techies.com/etrend/presta/lite/en/women/2-brown-bear-printed-sweater.html" class="thumbnail product-thumbnail">
+                            <img
+                                src = "http://demo4techies.com/etrend/presta/lite/31-home_default/brown-bear-printed-sweater.jpg"
+                                alt = "Standard Product"
+                                data-full-size-image-url = "http://demo4techies.com/etrend/presta/lite/31-large_default/brown-bear-printed-sweater.jpg" />
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                            <li class="product-flag discount">-20%</li>
+                                                        </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Quick view
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="http://demo4techies.com/etrend/presta/lite/en/women/2-brown-bear-printed-sweater.html">Standard Product</a></h1>
+                        
+                        
+                        <div class="product-short-desc" id="product-description-short-2" itemprop="description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul><li>Duis aute irure dolor in reprehenderit in voluptate.</li>
+<li>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
+</ul></div>
+                    
+                    
+                                                    <div class="product-price-and-shipping">
+                                                                    
+
+                                    <span class="sr-only">Regular price</span>
+                                    <span class="regular-price">$35.90</span>
+                                
+                                
+
+                                <span class="sr-only">Price</span>
+                                <span itemprop="price" class="price">$28.72</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="http://demo4techies.com/etrend/presta/lite/en/cart" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="285dfc9b6ecb07d33dcddbebb2551964">
+                            <input type="hidden" value="2" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary">Add to cart</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+                                            
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="3" data-id-product-attribute="63" itemscope itemtype="http://schema.org/Product">
+            <div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="http://demo4techies.com/etrend/presta/lite/en/art/3-63-the-best-is-yet-to-come-framed-poster.html#/1-size-s/8-color-white" class="thumbnail product-thumbnail">
+                            <img
+                                src = "http://demo4techies.com/etrend/presta/lite/34-home_default/the-best-is-yet-to-come-framed-poster.jpg"
+                                alt = "Configurable Product"
+                                data-full-size-image-url = "http://demo4techies.com/etrend/presta/lite/34-large_default/the-best-is-yet-to-come-framed-poster.jpg" />
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                    </ul>
+                    
+                    <div class="highlighted-informations hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Quick view
+                            </a>
+                        
+                        
+                                                            <div class="variant-links">
+      <a href="http://demo4techies.com/etrend/presta/lite/en/art/3-42-the-best-is-yet-to-come-framed-poster.html#/3-size-l/8-color-white"
+       class="color"
+       title="White"
+              style="background-color: #ffffff"           ><span class="sr-only">White</span></a>
+      <a href="http://demo4techies.com/etrend/presta/lite/en/art/3-44-the-best-is-yet-to-come-framed-poster.html#/3-size-l/10-color-red"
+       class="color"
+       title="Red"
+              style="background-color: #E84C3D"           ><span class="sr-only">Red</span></a>
+      <a href="http://demo4techies.com/etrend/presta/lite/en/art/3-43-the-best-is-yet-to-come-framed-poster.html#/3-size-l/11-color-black"
+       class="color"
+       title="Black"
+              style="background-color: #434A54"           ><span class="sr-only">Black</span></a>
+      <a href="http://demo4techies.com/etrend/presta/lite/en/art/3-47-the-best-is-yet-to-come-framed-poster.html#/3-size-l/13-color-orange"
+       class="color"
+       title="Orange"
+              style="background-color: #F39C11"           ><span class="sr-only">Orange</span></a>
+      <a href="http://demo4techies.com/etrend/presta/lite/en/art/3-48-the-best-is-yet-to-come-framed-poster.html#/3-size-l/14-color-blue"
+       class="color"
+       title="Blue"
+              style="background-color: #5D9CEC"           ><span class="sr-only">Blue</span></a>
+      <a href="http://demo4techies.com/etrend/presta/lite/en/art/3-45-the-best-is-yet-to-come-framed-poster.html#/3-size-l/16-color-yellow"
+       class="color"
+       title="Yellow"
+              style="background-color: #F1C40F"           ><span class="sr-only">Yellow</span></a>
+      <a href="http://demo4techies.com/etrend/presta/lite/en/art/3-46-the-best-is-yet-to-come-framed-poster.html#/3-size-l/18-color-pink"
+       class="color"
+       title="Pink"
+              style="background-color: #FCCACD"           ><span class="sr-only">Pink</span></a>
+    <span class="js-count count"></span>
+</div>
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="http://demo4techies.com/etrend/presta/lite/en/art/3-63-the-best-is-yet-to-come-framed-poster.html#/1-size-s/8-color-white">Configurable Product</a></h1>
+                        
+                        
+                        <div class="product-short-desc" id="product-description-short-3" itemprop="description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul><li>Duis aute irure dolor in reprehenderit in voluptate.</li>
+<li>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
+</ul></div>
+                    
+                    
+                                                    <div class="product-price-and-shipping">
+                                
+                                
+
+                                <span class="sr-only">Price</span>
+                                <span itemprop="price" class="price">$29.00</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="http://demo4techies.com/etrend/presta/lite/en/cart" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="285dfc9b6ecb07d33dcddbebb2551964">
+                            <input type="hidden" value="3" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary">Add to cart</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+                                            
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="4" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+            <div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="http://demo4techies.com/etrend/presta/lite/en/art/4-the-adventure-begins-framed-poster.html" class="thumbnail product-thumbnail">
+                            <img
+                                src = "http://demo4techies.com/etrend/presta/lite/36-home_default/the-adventure-begins-framed-poster.jpg"
+                                alt = "Virtual Product"
+                                data-full-size-image-url = "http://demo4techies.com/etrend/presta/lite/36-large_default/the-adventure-begins-framed-poster.jpg" />
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                    </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Quick view
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="http://demo4techies.com/etrend/presta/lite/en/art/4-the-adventure-begins-framed-poster.html">Virtual Product</a></h1>
+                        
+                        
+                        <div class="product-short-desc" id="product-description-short-4" itemprop="description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul><li>Duis aute irure dolor in reprehenderit in voluptate.</li>
+<li>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
+</ul></div>
+                    
+                    
+                                                    <div class="product-price-and-shipping">
+                                
+                                
+
+                                <span class="sr-only">Price</span>
+                                <span itemprop="price" class="price">$29.00</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="http://demo4techies.com/etrend/presta/lite/en/cart" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="285dfc9b6ecb07d33dcddbebb2551964">
+                            <input type="hidden" value="4" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary">Add to cart</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+                                            
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="5" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+            <div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="http://demo4techies.com/etrend/presta/lite/en/art/5-today-is-a-good-day-framed-poster.html" class="thumbnail product-thumbnail">
+                            <img
+                                src = "http://demo4techies.com/etrend/presta/lite/40-home_default/today-is-a-good-day-framed-poster.jpg"
+                                alt = "Pack of Product"
+                                data-full-size-image-url = "http://demo4techies.com/etrend/presta/lite/40-large_default/today-is-a-good-day-framed-poster.jpg" />
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                            <li class="product-flag pack">Pack</li>
+                                                        </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Quick view
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="http://demo4techies.com/etrend/presta/lite/en/art/5-today-is-a-good-day-framed-poster.html">Pack of Product</a></h1>
+                        
+                        
+                        <div class="product-short-desc" id="product-description-short-5" itemprop="description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul><li>Duis aute irure dolor in reprehenderit in voluptate.</li>
+<li>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
+</ul></div>
+                    
+                    
+                                                    <div class="product-price-and-shipping">
+                                
+                                
+
+                                <span class="sr-only">Price</span>
+                                <span itemprop="price" class="price">$29.00</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="http://demo4techies.com/etrend/presta/lite/en/cart" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="285dfc9b6ecb07d33dcddbebb2551964">
+                            <input type="hidden" value="5" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary">Add to cart</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+                                            
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="6" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+            <div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="http://demo4techies.com/etrend/presta/lite/en/home-accessories/6-mug-the-best-is-yet-to-come.html" class="thumbnail product-thumbnail">
+                            <img
+                                src = "http://demo4techies.com/etrend/presta/lite/43-home_default/mug-the-best-is-yet-to-come.jpg"
+                                alt = "Mug The best is yet to come"
+                                data-full-size-image-url = "http://demo4techies.com/etrend/presta/lite/43-large_default/mug-the-best-is-yet-to-come.jpg" />
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                            <li class="product-flag on-sale">On sale!</li>
+                                                        </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Quick view
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="http://demo4techies.com/etrend/presta/lite/en/home-accessories/6-mug-the-best-is-yet-to-come.html">Mug The best is yet to come</a></h1>
+                        
+                        
+                        <div class="product-short-desc" id="product-description-short-6" itemprop="description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p><ul><li>Duis aute irure dolor in reprehenderit in voluptate.</li><li>Velit esse cillum dolore eu fugiat nulla pariatur.</li></ul></div>
+                    
+                    
+                                                    <div class="product-price-and-shipping">
+                                
+                                
+
+                                <span class="sr-only">Price</span>
+                                <span itemprop="price" class="price">$11.90</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="http://demo4techies.com/etrend/presta/lite/en/cart" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="285dfc9b6ecb07d33dcddbebb2551964">
+                            <input type="hidden" value="6" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary">Add to cart</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+                                            
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="7" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+            <div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="http://demo4techies.com/etrend/presta/lite/en/home-accessories/7-mug-the-adventure-begins.html" class="thumbnail product-thumbnail">
+                            <img
+                                src = "http://demo4techies.com/etrend/presta/lite/49-home_default/mug-the-adventure-begins.jpg"
+                                alt = "Mug The adventure begins"
+                                data-full-size-image-url = "http://demo4techies.com/etrend/presta/lite/49-large_default/mug-the-adventure-begins.jpg" />
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                    </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Quick view
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="http://demo4techies.com/etrend/presta/lite/en/home-accessories/7-mug-the-adventure-begins.html">Mug The adventure begins</a></h1>
+                        
+                        
+                        <div class="product-short-desc" id="product-description-short-7" itemprop="description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul><li>Duis aute irure dolor in reprehenderit in voluptate.</li>
+<li>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
+</ul></div>
+                    
+                    
+                                                    <div class="product-price-and-shipping">
+                                
+                                
+
+                                <span class="sr-only">Price</span>
+                                <span itemprop="price" class="price">$11.90</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="http://demo4techies.com/etrend/presta/lite/en/cart" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="285dfc9b6ecb07d33dcddbebb2551964">
+                            <input type="hidden" value="7" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary">Add to cart</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+                                            
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="8" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+            <div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="http://demo4techies.com/etrend/presta/lite/en/home-accessories/8-mug-today-is-a-good-day.html" class="thumbnail product-thumbnail">
+                            <img
+                                src = "http://demo4techies.com/etrend/presta/lite/53-home_default/mug-today-is-a-good-day.jpg"
+                                alt = "Mug Today is a good day"
+                                data-full-size-image-url = "http://demo4techies.com/etrend/presta/lite/53-large_default/mug-today-is-a-good-day.jpg" />
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                    </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Quick view
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="http://demo4techies.com/etrend/presta/lite/en/home-accessories/8-mug-today-is-a-good-day.html">Mug Today is a good day</a></h1>
+                        
+                        
+                        <div class="product-short-desc" id="product-description-short-8" itemprop="description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<ul><li>Duis aute irure dolor in reprehenderit in voluptate.</li>
+<li>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
+</ul></div>
+                    
+                    
+                                                    <div class="product-price-and-shipping">
+                                
+                                
+
+                                <span class="sr-only">Price</span>
+                                <span itemprop="price" class="price">$11.90</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="http://demo4techies.com/etrend/presta/lite/en/cart" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="285dfc9b6ecb07d33dcddbebb2551964">
+                            <input type="hidden" value="8" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary">Add to cart</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+                                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+            <!-- Static Block module -->
+			<div id="blog-section" class="blog-section">
+<div class="blogpost-block">
+<div class="container">
+<div class="section-title"><span>Latest <i>Blogs</i> </span></div>
+<div class="row">
+<div class="blog-block owl-carousel owl-theme blog-slider">
+<div class="blog-inner">
+<div class="blog-inner-block">
+<div class="blog-image"><a class="#"> <img src="../img/cms/blog-1.png" alt="blog1" /> </a>
+<div class="post-date"><span>July 30, 2020</span></div>
+</div>
+<div class="blog-content">
+<h3><a href="#">Consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt.</a></h3>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+<a class="action primary btn btn-primary" href="#" title="Read More">Read More</a></div>
+</div>
+</div>
+<div class="blog-inner">
+<div class="blog-inner-block">
+<div class="blog-image"><a class="#"> <img src="../img/cms/blog-2.png" alt="blog1" /> </a>
+<div class="post-date"><span>July 22, 2020</span></div>
+</div>
+<div class="blog-content">
+<h3><a href="#">Ut labore et dolore magnam aliquam quaerat voluptatem.</a></h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<a class="action primary btn btn-primary" href="#" title="Read More">Read More</a></div>
+</div>
+</div>
+<div class="blog-inner">
+<div class="blog-inner-block">
+<div class="blog-image"><a class="#"> <img src="../img/cms/blog-3.png" alt="blog1" /> </a>
+<div class="post-date"><span>July 14, 2020</span></div>
+</div>
+<div class="blog-content">
+<h3><a href="#">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.</a></h3>
+<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<a class="action primary btn btn-primary" href="#" title="Read More">Read More</a></div>
+</div>
+</div>
+<div class="blog-inner">
+<div class="blog-inner-block">
+<div class="blog-image"><a class="#"> <img src="../img/cms/blog-4.png" alt="blog1" /> </a>
+<div class="post-date"><span>July 28, 2020</span></div>
+</div>
+<div class="blog-content">
+<h3><a href="#">Ut labore et dolore magnam aliquam quaerat voluptatem.</a></h3>
+<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<a class="action primary btn btn-primary" href="#" title="Read More">Read More</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+	<!-- /Static block module --><div class="brand-section">
+    <div class="container">
+                <div class="section-title">
+            <span>Shop by 
+                <i>Brand</i>
+            </span>
+        </div>
+        <div class="brand-content">
+            <div class="brand-row">
+                                    <ul id="brands-slider" class="brands-slider">
+                        <li class="item">
+                <a href="http://demo4techies.com/etrend/presta/lite/en/brand/1-brand-img-1" title="brand-img-1">
+                    <img src="http://demo4techies.com/etrend/presta/lite/img/m/1.jpg" title="brand-img-1" alt="brand-img-1" /> 
+                </a>
+            </li>
+                                <li class="item">
+                <a href="http://demo4techies.com/etrend/presta/lite/en/brand/2-brand-img-2" title="brand-img-2">
+                    <img src="http://demo4techies.com/etrend/presta/lite/img/m/2.jpg" title="brand-img-2" alt="brand-img-2" /> 
+                </a>
+            </li>
+                                <li class="item">
+                <a href="http://demo4techies.com/etrend/presta/lite/en/brand/3-brand-img-3" title="brand-img-3">
+                    <img src="http://demo4techies.com/etrend/presta/lite/img/m/3.jpg" title="brand-img-3" alt="brand-img-3" /> 
+                </a>
+            </li>
+                                <li class="item">
+                <a href="http://demo4techies.com/etrend/presta/lite/en/brand/4-brand-img-4" title="brand-img-4">
+                    <img src="http://demo4techies.com/etrend/presta/lite/img/m/4.jpg" title="brand-img-4" alt="brand-img-4" /> 
+                </a>
+            </li>
+                                <li class="item">
+                <a href="http://demo4techies.com/etrend/presta/lite/en/brand/5-brand-img-5" title="brand-img-5">
+                    <img src="http://demo4techies.com/etrend/presta/lite/img/m/5.jpg" title="brand-img-5" alt="brand-img-5" /> 
+                </a>
+            </li>
+                                <li class="item">
+                <a href="http://demo4techies.com/etrend/presta/lite/en/brand/6-brand-img-6" title="brand-img-6">
+                    <img src="http://demo4techies.com/etrend/presta/lite/img/m/6.jpg" title="brand-img-6" alt="brand-img-6" /> 
+                </a>
+            </li>
+                                <li class="item">
+                <a href="http://demo4techies.com/etrend/presta/lite/en/brand/7-brand-img-7" title="brand-img-7">
+                    <img src="http://demo4techies.com/etrend/presta/lite/img/m/7.jpg" title="brand-img-7" alt="brand-img-7" /> 
+                </a>
+            </li>
+            </ul>
+                            </div>
+        </div>
+    </div>
+</div>
+
+        
+
+        <footer id="footer">
+            
+                
+<div class="footer-top">
+    <div class="container">
+        <div class="row">
+            
+                <div class="block_newsletter col-lg-8 col-md-12 col-sm-12">
+    <div class="newsletter-title">
+        <h2 id="block-newsletter-label" class="footer-block-title">
+            <span>Latest From 
+                <i>Etrend</i>
+            </span>
+        </h2>
+    </div>
+    <div class="footer-block-toggle-content">
+        <p>Subscribe to our newsletter to get exclusive discounts and new theme launches right in your inbox.</p>
+        <form action="http://demo4techies.com/etrend/presta/lite/en/#footer" method="post">
+            <div class="col-xs-12 subscribe-block">
+                <div class="input-wrapper">
+                    <input
+                        name="email"
+                        type="text"
+                        value=""
+                        placeholder="Your email address"
+                        aria-labelledby="block-newsletter-label"
+                        >
+                </div>
+                <input
+                    class="btn btn-primary float-xs-right hidden-xs-down"
+                    name="submitNewsletter"
+                    type="submit"
+                    value="Send"
+                    >
+                <input
+                    class="btn btn-primary float-xs-right hidden-sm-up"
+                    name="submitNewsletter"
+                    type="submit"
+                    value="OK"
+                    >
+                <input type="hidden" name="action" value="0">
+            </div>
+            <div class="condition">
+                                                                    
+                            </div>
+        </form>
+    </div>
+</div>
+            
+        </div>
+    </div>
+</div>
+<div class="footer-container">
+    <div class="container">
+        <div class="row">
+            
+                <!-- Static Block module -->
+			<div id="contactinfo-section" class="contactinfo-section">
+<div class="footer-links-column">
+<div class="footer-colum-title footer-block-title">
+<h3>Get in Touch</h3>
+</div>
+<div class="footer-column-content footer-block-toggle-content">
+<ul class="content">
+<li class="add-item"><i class="icon fa fa-map-marker"></i>
+<div class="text"><strong>Address</strong>
+<p>123 Street, City, London</p>
+</div>
+</li>
+<li class="add-item"><i class="icon fa fa-phone"></i>
+<div class="text"><strong>Phone</strong> <a href="tel:(123)4567890">(123) 456 7890</a></div>
+</li>
+<li class="add-item"><i class="icon fa fa-envelope"></i>
+<div class="text"><strong>Mail Us</strong> <a href="mailto:mail@example.com">mail@example.com</a></div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+	<!-- /Static block module --><div class="col-md-4 links">
+  <div class="row">
+      <div class="col-md-6 wrapper">
+      <h3 class="h3 hidden-sm-down">Products</h3>
+            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_36335" data-toggle="collapse">
+        <span class="h3">Products</span>
+        <span class="float-xs-right">
+          <span class="navbar-toggler collapse-icons">
+            <i class="material-icons add">&#xE313;</i>
+            <i class="material-icons remove">&#xE316;</i>
+          </span>
+        </span>
+      </div>
+      <ul id="footer_sub_menu_36335" class="collapse">
+                  <li>
+            <a
+                id="link-cms-page-5-1"
+                class="cms-page-link"
+                href="http://demo4techies.com/etrend/presta/lite/en/content/5-secure-payment"
+                title="Our secure payment method"
+                            >
+              Secure payment
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-product-page-prices-drop-1"
+                class="cms-page-link"
+                href="http://demo4techies.com/etrend/presta/lite/en/prices-drop"
+                title="Our special products"
+                            >
+              Prices drop
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-product-page-new-products-1"
+                class="cms-page-link"
+                href="http://demo4techies.com/etrend/presta/lite/en/new-products"
+                title="Our new products"
+                            >
+              New products
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-product-page-best-sales-1"
+                class="cms-page-link"
+                href="http://demo4techies.com/etrend/presta/lite/en/best-sales"
+                title="Our best sales"
+                            >
+              Best sales
+            </a>
+          </li>
+              </ul>
+    </div>
+      <div class="col-md-6 wrapper">
+      <h3 class="h3 hidden-sm-down">Our company</h3>
+            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_7299" data-toggle="collapse">
+        <span class="h3">Our company</span>
+        <span class="float-xs-right">
+          <span class="navbar-toggler collapse-icons">
+            <i class="material-icons add">&#xE313;</i>
+            <i class="material-icons remove">&#xE316;</i>
+          </span>
+        </span>
+      </div>
+      <ul id="footer_sub_menu_7299" class="collapse">
+                  <li>
+            <a
+                id="link-cms-page-1-2"
+                class="cms-page-link"
+                href="http://demo4techies.com/etrend/presta/lite/en/content/1-delivery"
+                title="Our terms and conditions of delivery"
+                            >
+              Delivery
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-2-2"
+                class="cms-page-link"
+                href="http://demo4techies.com/etrend/presta/lite/en/content/2-legal-notice"
+                title="Legal notice"
+                            >
+              Legal Notice
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-cms-page-4-2"
+                class="cms-page-link"
+                href="http://demo4techies.com/etrend/presta/lite/en/content/4-about-us"
+                title="Learn more about us"
+                            >
+              About us
+            </a>
+          </li>
+                  <li>
+            <a
+                id="link-static-page-contact-2"
+                class="cms-page-link"
+                href="http://demo4techies.com/etrend/presta/lite/en/contact-us"
+                title="Use our form to contact us"
+                            >
+              Contact us
+            </a>
+          </li>
+              </ul>
+    </div>
+    </div>
+</div>
+<div id="block_myaccount_infos" class="col-md-2 links wrapper">
+  <h3 class="myaccount-title hidden-sm-down">
+    <a class="text-uppercase" href="http://demo4techies.com/etrend/presta/lite/en/my-account" rel="nofollow">
+      Your account
+    </a>
+  </h3>
+  <div class="title clearfix hidden-md-up" data-target="#footer_account_list" data-toggle="collapse">
+    <span class="h3">Your account</span>
+    <span class="float-xs-right">
+      <span class="navbar-toggler collapse-icons">
+        <i class="material-icons add">&#xE313;</i>
+        <i class="material-icons remove">&#xE316;</i>
+      </span>
+    </span>
+  </div>
+  <ul class="account-list collapse" id="footer_account_list">
+            <li>
+          <a href="http://demo4techies.com/etrend/presta/lite/en/identity" title="Personal info" rel="nofollow">
+            Personal info
+          </a>
+        </li>
+            <li>
+          <a href="http://demo4techies.com/etrend/presta/lite/en/order-history" title="Orders" rel="nofollow">
+            Orders
+          </a>
+        </li>
+            <li>
+          <a href="http://demo4techies.com/etrend/presta/lite/en/credit-slip" title="Credit slips" rel="nofollow">
+            Credit slips
+          </a>
+        </li>
+            <li>
+          <a href="http://demo4techies.com/etrend/presta/lite/en/addresses" title="Addresses" rel="nofollow">
+            Addresses
+          </a>
+        </li>
+        
+	</ul>
+</div>
+<a class="scrollTop" href="#" title="Scroll To Top">
+    <span>
+                    Top
+            </span>
+</a>
+<style>
+    .scrollTop {
+        bottom: 60px;
+        cursor: pointer;
+        display: none;
+        font-size: 11px;
+        font-weight: 600;
+        min-height: 45px;
+        line-height: 45px;
+        padding: 0;
+        position: fixed;
+        text-align: center;
+        text-transform: uppercase;
+        width: 45px;
+        z-index: 1;
+        color: #000000;
+        border: 1px solid #e1e1e1;
+        background: #ffffff;
+        text-decoration: none;
+        outline: none;
+    }
+    .scrollTop:visited, .scrollTop:focus, .scrollTop:active {
+        color: #000000;
+        border: 1px solid #e1e1e1;
+        background: #ffffff;
+        text-decoration: none;
+        outline: none;
+    }
+    .scrollTop:hover {
+        color: #ffffff;
+        border: 1px solid #000000;
+        background: #000000;
+        text-decoration: none;
+        outline: none;
+    }
+    @media(max-width: 767px) {
+        .scrollTop {
+            bottom: 30px;
+        }
+    }
+            .scrollTop {
+            right: 25px;
+        }
+                .scrollTop {
+                    font-size: 13px;
+                            background: #333333;
+                            border-color: #333333;
+                            color: #ffffff;
+            }
+    .scrollTop:visited, .scrollTop:focus, .scrollTop:active{
+                    background: #333333;
+                            border-color: #333333;
+                            color: #ffffff;
+            }
+    .scrollTop:hover {
+                    background: #666666;
+                            border-color: #666666;
+                            color: #ffffff;
+            }
+
+</style>
+
+            
+        </div>
+        <div class="row">
+            
+                <!-- Static Block module -->
+			<div class="footer-text-content">
+<div class="logo-socials"><img src="http://demo4techies.com/etrend/presta/lite/img/cms/Etrend-logo.png" title="Etrend" alt="Etrend" width="143" height="47" />
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+<div class="social-block"></div>
+</div>
+</div>
+	<!-- /Static block module -->
+            
+        </div>
+    </div>
+</div>
+<div class="col-md-12 footer-bottom">
+    <div class="container">
+        <div class="footer-inner">
+            <div class="copyright">
+                <p class="copyright-block">
+                    
+                        <a class="_blank" href="http://www.prestashop.com" target="_blank">
+                            © 2024 - Ecommerce software by PrestaShop™
+                        </a>
+                    
+                </p>
+            </div>
+            <div class="cards">
+                <!-- Static Block module -->
+			<ul class="footer-payment-icon">
+	<li><a href="#"><i class="fa fa-cc-visa" aria-hidden="true"></i></a></li>
+	<li><a href="#"><i class="fa fa-cc-paypal" aria-hidden="true"></i></a></li>
+	<li><a href="#"><i class="fa fa-cc-discover" aria-hidden="true"></i></a></li>
+	<li><a href="#"><i class="fa fa-cc-amex" aria-hidden="true"></i></a></li>
+	<li><a href="#"><i class="fa fa-cc-mastercard" aria-hidden="true"></i></a></li>
+</ul>
+
+	<!-- /Static block module -->
+            </div>
+        </div>
+    </div>
+</div>            
+        </footer>
+
+    </main>
+
+    
+          <script type="text/javascript" src="http://demo4techies.com/etrend/presta/lite/themes/core.js" ></script>
+  <script type="text/javascript" src="http://demo4techies.com/etrend/presta/lite/themes/etrendlite/assets/js/theme.js" ></script>
+  <script type="text/javascript" src="http://demo4techies.com/etrend/presta/lite/modules/ps_emailsubscription/views/js/ps_emailsubscription.js" ></script>
+  <script type="text/javascript" src="http://demo4techies.com/etrend/presta/lite/modules/ht_scrolltop/views/js/scrolltop.js" ></script>
+  <script type="text/javascript" src="http://demo4techies.com/etrend/presta/lite/js/jquery/ui/jquery-ui.min.js" ></script>
+  <script type="text/javascript" src="http://demo4techies.com/etrend/presta/lite/modules/ps_shoppingcart/ps_shoppingcart.js" ></script>
+  <script type="text/javascript" src="http://demo4techies.com/etrend/presta/lite/modules/ps_imageslider/js/responsiveslides.min.js" ></script>
+  <script type="text/javascript" src="http://demo4techies.com/etrend/presta/lite/modules/ps_imageslider/js/homeslider.js" ></script>
+  <script type="text/javascript" src="http://demo4techies.com/etrend/presta/lite/modules/ps_searchbar/ps_searchbar.js" ></script>
+  <script type="text/javascript" src="http://demo4techies.com/etrend/presta/lite/themes/etrendlite/assets/js/parallax-background.js" ></script>
+  <script type="text/javascript" src="http://demo4techies.com/etrend/presta/lite/themes/etrendlite/assets/js/owl.carousel.js" ></script>
+  <script type="text/javascript" src="http://demo4techies.com/etrend/presta/lite/themes/etrendlite/assets/js/custom.js" ></script>
+
+
+    
+
+    
+        
+    
+</body>
+
+</html>

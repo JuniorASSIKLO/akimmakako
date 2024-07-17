@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'localhost',
+    'database_port' => '',
+    'database_name' => 'akimmakako',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'n9kcCeKs980AmpqUVx0NNWE18geciRSTqM1wZHSWDmu9VCyN7uOjWYyoAU2I6Gqq',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2024-07-08',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'CeiatGxqWGLXkRjqs3ZojFW2vfOp8NOYZuRSLmATZBYsVFVROA266bgLKs8JcjzL',
+    'cookie_iv' => '2O2DXUapYJUBES4dDqsPfcgTVUoDoveo',
+    'new_cookie_key' => 'def000001c08d9ede7ea220634c473cc625f8f963f38fc010b66b58d503f148a01327e036981f90c0bcceaec9e4223019b9532784a06ab27061f089e6b1b0342d257b7ee',
+  ),
+);
